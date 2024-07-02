@@ -49,9 +49,6 @@ To run this project locally, you need to have a web browser.
 4. Click the 'Start' button to begin the visualization.
 5. Observe the sorting process with color-coded steps and algorithm complexity details displayed.
 
-## Live Demo
-
-Check out the live version [here](https://kethantummala.github.io/Sorting_Visualizer/).
 
 ## Contributing
 
@@ -68,7 +65,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 For any inquiries, please contact:
-- Kethan Tummala - [Email](mailto:kethan.tummala@example.com)
+- Kethan Tummala - [Email](mailto:ashish72311@gmail.com)
 
 ## Acknowledgements
 
