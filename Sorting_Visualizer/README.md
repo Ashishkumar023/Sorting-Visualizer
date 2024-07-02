@@ -33,13 +33,7 @@ A web application showcasing the inner workings of sorting algorithms through an
 
 To run this project locally, you need to have a web browser.
 
-### Installation
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/kethantummala/Sorting_Visualizer.git
-    ```
-2. Open the `index.html` file in your preferred web browser.
 
 ### Usage
 
